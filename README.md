@@ -1,21 +1,38 @@
 # ML Kits
 
-Starter projects for learning about Machine Learning.
+## Repository for the ML Kits project
 
-## Downloading
+Learn the fundamentals of Machine Learning
 
-There are two ways to download this repository - either as a zip or by using git.
+1. Methodologies/Project Management:
 
-### Zip Download
+   - Agile
 
-To download this project as a zip file, find the green 'Clone or Download' button on the top right hand side. Click that button, then download this project as a zip file.
+2. Coding Practices:
 
-Once downloaded extract the zip file to your local computer.
+   - OOP (Object Oriented Programming)
 
-### Git Download
+3. Programming Languages/Frameworks:
+   - TensorFlow JS
+   - HTML (Not really a language)
+   - CSS
+   - JavaScript
 
-To download this project using git, run the following command at your terminal:
+## Live Demo
 
-```
-git clone https://github.com/StephenGrider/MLKits.git
-```
+- [loading](https://loading.herokuapp.com/ 'loading')
+
+## Instructions
+
+1. Make sure you have these installed
+
+   - [Visual Studio Code](https://code.visualstudio.com/download 'Visual Studio Code')
+
+     - I used version `1.58.0` at time of creation
+
+2. Clone this repository into your local machine using the terminal (mac) or
+   [Gitbash (PC)](https://git-scm.com/download/win 'Gitbash (PC)')
+
+   ```sh
+   git clone https://github.com/iammelvink/MLKits.git
+   ```
